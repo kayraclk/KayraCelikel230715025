@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\bin\Debug\KayraCelikel230715025MidTerm.exe.config
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\bin\Debug\KayraCelikel230715025MidTerm.exe
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\bin\Debug\KayraCelikel230715025MidTerm.pdb
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.frmTextEditor.resources
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.frmStudentGrade.resources
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.frmBackGroundColorControl.resources
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.frmMain.resources
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.Properties.Resources.resources
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.exe
+C:\Users\User\source\repos\KayraCelikel230715025MidTerm\KayraCelikel230715025MidTerm\obj\Debug\KayraCelikel230715025MidTerm.pdb
